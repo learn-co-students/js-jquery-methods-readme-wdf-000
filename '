@@ -35,5 +35,5 @@ function findItByClass(string) {
 }
 
 function formValue() {
-  return $('input:last').val();
+  return $('input').val();
 }
